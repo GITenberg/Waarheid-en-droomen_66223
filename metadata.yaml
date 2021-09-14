@@ -1,11 +1,16 @@
 _repo: Waarheid-en-droomen_66223
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66223-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Hasebroek, Johannes Petrus
     gutenberg_agent_id: '53694'
     url: http://www.gutenberg.org/2009/agents/53694
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66223#Waarheid-en-droomen
 gutenberg_issued: '2021-09-05'
 identifiers:
   gutenberg: '66223'
